@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Tanbi Ghosh
 - 👀 I’m interested in Writing, painting, exploring programming concepts, and solving real-world problems with code.
-- 🌱 I’m currently learning JAVA
 - 📫 How to reach me ghosh.tanbi@gmail.com
 - ⚡ Fun fact: When I’m not immersed in code or academic work, you’ll find me exploring Bengali literature, crafting creative content, or solving quizzes for fun!
 
