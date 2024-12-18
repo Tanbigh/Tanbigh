@@ -1,26 +1,14 @@
-- 👋 Hi, I’m Tanbi Ghosh
-- 👀 I’m interested in Writing, painting, exploring programming concepts, and solving real-world problems with code.
-- 📫 How to reach me ghosh.tanbi@gmail.com
-- ⚡ Fun fact: When I’m not immersed in code or academic work, you’ll find me exploring Bengali literature, crafting creative content, or solving quizzes for fun!
+<h1 align="center">Hi 👋, I'm TANBI GHOSH</h1>
+- 💬 Ask me about **C,C++,Python**
 
-<!---
-Tanbi Ghosh
-BCA Student | Aspiring Technology Professional | Content Writer
+- 📫 How to reach me **ghosh.tanbi@gmail.com**
 
-Hello! I'm Tanbi, a second-year BCA student at the Institute of Engineering and Management, Ashram Campus, with a solid foundation in computer applications and a passion for problem-solving and creativity. My primary interests lie in programming, data structures, and networking technologies.
+- ⚡ Fun fact **When I’m not immersed in code or academic work, you’ll find me exploring Bengali literature, crafting creative content, or solving quizzes for fun!**
 
-📌 Skills & Interests:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/tanbi ghosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanbi ghosh" height="30" width="40" /></a>
+</p>
 
-Programming: Python, C, C++
-Data Structures and Algorithms
-Networking Protocols and Cryptography
-Writing and Creative Content Development
-📌 Notable Achievements:
-
-Contributing Content Writer for the official college magazine, Gyan Ke Bytes
-Currently, I’m focused on advancing my technical knowledge, preparing for UPSC after graduation, and exploring ways to bridge creativity with technology.
-
-Let’s connect and grow together!
-
-
---->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
