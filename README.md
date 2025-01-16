@@ -24,7 +24,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanbigh&" alt="tanbigh" /></p>
 
----
-
-### Watch My Contribution Snake! 🐍
-![GitHub Contribution Snake](./github-snake.svg)
