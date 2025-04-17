@@ -3,7 +3,7 @@
 
 - About me: **👩‍💻 Tanbi Ghosh | Aspiring Software Developer BCA Student | Passionate about coding, technology, and creative problem-solving. 🌟 Exploring Data Structures, Networking, and Web Development. 🎨 Occasionally blends tech with creativity through digital art and writing. 🚀 On a journey to build innovative and impactful projects.**
 
-- 💬 Ask me about **C, C++, Python, HTML, CSS, JAVA**
+- 💬 Ask me about **C++, Python, HTML, CSS, JAVA**
 
 - 📫 How to reach me **ghosh.tanbi@gmail.com**
 
