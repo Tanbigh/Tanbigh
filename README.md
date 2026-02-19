@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm TANBI GHOSH</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanbigh&label=Profile%20views&color=0e75b6&style=flat" alt="tanbigh" /> </p>
-
 - 🔭 I’m currently working on **Actively learning and building projects using front-end and back-end technologies.**
 
 - 👨‍💻 All of my projects are available at [https://tanbigh.github.io/Tanbi-Profile/](https://tanbigh.github.io/Tanbi-Profile/)
