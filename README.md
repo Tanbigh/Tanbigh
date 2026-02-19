@@ -53,7 +53,7 @@ BCA Undergraduate | Aspiring Software Developer | Content Writer
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=TanbiGhosh&theme=dracula" height="150" />
+  <img src="https://streak-stats.demolab.com?user=tanbi-ghosh&theme=dracula&hide_border=true" />
 </div>
 
 ---
