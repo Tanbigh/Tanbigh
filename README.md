@@ -15,7 +15,7 @@
 <h2 align="center">Development Journey</h2>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dracula" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Tanbigh&theme=dracula" alt="GitHub Streak" />
   <br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=dracula&area=true&hide_border=true&bg_color=black" alt="Activity Graph" />
 </div>
