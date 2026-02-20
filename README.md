@@ -1,3 +1,9 @@
+
+
+ <div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
+
 <h1 align="center">Hi 👋, I'm TANBI GHOSH</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -12,9 +18,6 @@
 - ⚡ Fun fact **When I’m not immersed in code or academic work, you’ll find me exploring Bengali literature, crafting creative content, or solving quizzes for fun!**
 
 
- <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
 
 ###
 
