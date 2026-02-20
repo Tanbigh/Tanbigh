@@ -74,6 +74,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanbigh&theme=dracula&area=true&hide_border=true&bg_color=black" alt="Activity Graph" />
 </div>
 
+<img src="https://raw.githubusercontent.com/Tanbigh/Tanbigh/output/snake.svg" alt="Snake animation" />
+
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tanbigh/Tanbigh/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tanbigh/Tanbigh/output/pacman-contribution-graph.svg">
