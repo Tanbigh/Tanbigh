@@ -72,4 +72,12 @@
   <img src="https://streak-stats.demolab.com?user=Tanbigh&theme=dracula" alt="GitHub Streak" />
   <br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanbigh&theme=dracula&area=true&hide_border=true&bg_color=black" alt="Activity Graph" />
-</div
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tanbigh/Tanbigh/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tanbigh/Tanbigh/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Tanbigh/Tanbigh/output/pacman-contribution-graph.svg">
+</picture>
+
+###
