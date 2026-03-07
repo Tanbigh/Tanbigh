@@ -3,11 +3,19 @@
   <img height="200" src="https://i.imgflip.com/65efzo.gif" />
 </div>
 
+<h1 align="center">Hi 👋, I'm TANBI GHOSH</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
 ---
 
 ### 👩‍💻 About Me
 
+- 🔭 I’m currently working on **actively learning and building projects using front-end and back-end technologies**
+- 👨‍💻 All of my projects are available at  
+  👉 https://tanbigh.github.io/Tanbi-Profile/
+- 💬 Ask me about **the programming languages I’ve used in my repositories**
+- 📫 Reach me at **ghosh.tanbi@gmail.com**
+- ⚡ Fun fact: **When I’m not immersed in code or academics, I explore Bengali literature, create content, and enjoy solving quizzes**
 
 ---
 
