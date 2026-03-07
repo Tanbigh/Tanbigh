@@ -3,8 +3,6 @@
   <img height="200" src="https://i.imgflip.com/65efzo.gif" />
 </div>
 
-<h1 align="center">Hi 👋, I'm TANBI GHOSH</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 ---
 
