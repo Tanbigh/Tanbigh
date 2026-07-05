@@ -3,7 +3,7 @@
 ============================================================ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There,%20I'm%20Tanbi%20Ghosh%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-End%20%7C%20Back-End%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There,%20I'm%20Tanbi%20Ghosh%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-End%20%7C%20Back-End%20%7C%20&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://tanbigh.github.io/Tanbi-Profile/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Passionate+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Building+clean+%26+scalable+web+apps;Always+learning%2C+always+shipping;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
