@@ -3,15 +3,13 @@
 ============================================================ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There,%20I'm%20Tanbi%20Ghosh%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-End%20%7C%20Back-End&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There,%20I'm%20Tanbi%20Ghosh%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-End%20%7C%20Back-End%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://tanbigh.github.io/Tanbi-Profile/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Passionate+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Building+clean+%26+scalable+web+apps;Always+learning%2C+always+shipping;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </a>
 
-</div>
-
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://discord.com/" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
@@ -19,10 +17,8 @@
   <a href="mailto:ghosh.tanbi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Tanbigh&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/Tanbigh?style=for-the-badge&color=58A6FF&labelColor=161B22)
+<img src="https://komarev.com/ghpvc/?username=Tanbigh&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/Tanbigh?style=for-the-badge&color=58A6FF&labelColor=161B22" />
 
 </div>
 
@@ -35,7 +31,7 @@
 
 ```yaml
 name: Tanbi Ghosh
-location: India
+location: India 🇮🇳
 role: Front-End & Back-End Developer
 currently_learning: Full-stack development, modern JS frameworks
 portfolio: https://tanbigh.github.io/Tanbi-Profile/
@@ -48,6 +44,7 @@ fun_fact: "When I'm not coding, I'm reading Bengali literature, creating content
 - 🌱 Actively sharpening my skills in full-stack web development
 - 👀 All my work lives on my **[Portfolio →](https://tanbigh.github.io/Tanbi-Profile/)**
 - 💬 Ask me about the languages and frameworks I've used across my repos
+- 🤝 Open to collaborating on web development projects and learning together
 - 📫 Reach me at **[ghosh.tanbi@gmail.com](mailto:ghosh.tanbi@gmail.com)**
 - ⚡ Fun fact: I explore Bengali literature, create content, and enjoy solving quizzes in my downtime
 
@@ -59,7 +56,7 @@ fun_fact: "When I'm not coding, I'm reading Bengali literature, creating content
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,cpp,csharp,java,mysql,mongodb,git,anaconda,canva&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,cpp,csharp,java,mysql,mongodb,git,github,anaconda,canva&theme=dark" />
 </p>
 
 <br>
@@ -80,6 +77,17 @@ fun_fact: "When I'm not coding, I'm reading Bengali literature, creating content
 
 <div align="center">
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Tanbigh&theme=react-dark&area=true&hide_border=true&bg_color=00000000" />
+</div>
+
+<br>
+
+<!-- ============================================================
+     TROPHIES
+============================================================ -->
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Tanbigh&theme=dracula&no-frame=true&row=1&column=7" />
 </div>
 
 <br>
