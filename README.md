@@ -4,14 +4,10 @@
 
 <div align="center">
 
-<img
-src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&color=gradient&customColorList=18,19,21,22&text=Hi%20There%2C%20I%27m%20Tanbi%20Ghosh%20%F0%9F%91%8B&fontSize=42&fontColor=F8F8FF&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20AI%20%26%20ML%20%7C%20Computer%20Vision&descAlignY=60&descSize=18"
-width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&color=gradient&customColorList=18,19,21,22&text=Hi%20There%2C%20I%27m%20Tanbi%20Ghosh%20%F0%9F%91%8B&fontSize=42&fontColor=F8F8FF&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20AI%20%26%20ML%20%7C%20Computer%20Vision&descAlignY=60&descSize=18" width="100%"/>
 
 <a href="https://tanbigh.github.io/Tanbi-Profile/">
-<img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=FF4D6D&center=true&vCenter=true&width=750&lines=Master%27s+Student+%40+SNU+Kolkata;BCA+Graduate+%40+IEM+Kolkata;Frontend+Developer;AI+%26+ML+%2F+Computer+Vision+Enthusiast;Welcome+to+my+GitHub+Profile%21"
-alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=FF4D6D&center=true&vCenter=true&width=750&lines=Master%27s+Student+%40+SNU+Kolkata;BCA+Graduate+%40+IEM+Kolkata;Frontend+Developer;AI+%26+ML+%2F+Computer+Vision+Enthusiast;Welcome+to+my+GitHub+Profile%21" alt="Typing SVG"/>
 </a>
 
 <p>
