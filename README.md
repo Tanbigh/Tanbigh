@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=900&color=00FF9C&center=true&vCenter=true&width=650&lines=tanbi%40github%3A~%24+whoami;Tanbi+Ghosh+%E2%80%94+Full-Stack+Developer;tanbi%40github%3A~%24+cat+focus.txt;Computer+Vision+%2F%2F+Accessibility+Tech" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=900&color=00FF9C&center=true&vCenter=true&width=650&lines=tanbi%40github%3A~%24+whoami;Tanbi+Ghosh+%E2%80%94+Full-Stack+Developer;tanbi%40github%3A~%24+cat+education.txt;M.Tech%2FMCA+%40+SNU+Kolkata+%7C+B.C.A+%40+IEM+Kolkata" alt="Typing SVG" />
 
 <br>
 
-<img src="https://img.shields.io/badge/status-final--year--BCA-000000?style=flat-square&labelColor=000000&color=00FF9C&logo=googlescholar&logoColor=00FF9C" />
+<img src="https://img.shields.io/badge/degree-BCA%2C_IEM_Kolkata-000000?style=flat-square&labelColor=000000&color=00FF9C" />
+<img src="https://img.shields.io/badge/currently-Masters%40SNU_Kolkata-000000?style=flat-square&labelColor=000000&color=00FF9C" />
 <img src="https://img.shields.io/badge/CGPA-8.84-000000?style=flat-square&labelColor=000000&color=00FF9C" />
-<img src="https://img.shields.io/badge/location-Kolkata%2C_IN-000000?style=flat-square&labelColor=000000&color=00FF9C" />
 
 </div>
 
@@ -17,13 +17,28 @@ tanbi@github:~$ cat about.md
 ```
 
 ```
-Final-year BCA student @ Institute of Engineering & Management, Kolkata
-Focus areas   : Full-stack web dev · Computer Vision · Accessibility Tech
-Research      : ISL-TextLite (ACM TKDD, submitted) — real-time sign-language-to-text
-                IndiToon MemeNet (Neurocomputing, submitted) — meme understanding
-Leadership    : Deputy Secretary & Chief Content Writer @ Gyan Ke Bytes
-                Student organizer @ Campus Tank 2K25
-Off-duty      : journalism · creative writing · chess · art
+Education    : B.C.A, Institute of Engineering & Management, Kolkata — CGPA 8.84 (graduated)
+               Currently pursuing a Master's degree @ SNU, Kolkata
+Focus areas  : Full-stack web development · Computer Vision · Accessibility Tech
+Research     : ISL-TextLite (ACM TKDD, submitted) — real-time sign-language-to-text
+               IndiToon MemeNet (Neurocomputing, submitted) — meme understanding
+Leadership   : Deputy Secretary & Chief Content Writer @ Gyan Ke Bytes
+               Student organizer @ Campus Tank 2K25
+Off-duty     : journalism · creative writing · chess · art
+```
+
+<br>
+
+```bash
+tanbi@github:~$ cat experience.txt
+```
+
+```
+Euphoria GenX     — MERN Stack Intern
+ApexPlanet        — Web Development Intern
+CodSoft           — Software Development Intern
+NewsTapOne        — Intern
+SmartED           — Intern
 ```
 
 <br>
@@ -53,7 +68,7 @@ tanbi@github:~$ ls -la projects/
 <br>
 
 ```bash
-tanbi@github:~$ ./run_stats.sh
+tanbi@github:~$ ./run_stats.sh   # live data — pulled from your repos on every load
 ```
 
 <div align="center">
@@ -67,6 +82,20 @@ tanbi@github:~$ ./run_stats.sh
 
 <div align="center">
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Tanbigh&theme=react-dark&area=true&hide_border=true&bg_color=0D1117&color=00FF9C&line=00FF9C&point=ffffff" />
+</div>
+
+<br>
+
+```bash
+tanbi@github:~$ ./contribution_snake.sh   # animated snake eating your commit graph
+```
+
+<div align="center">
+
+<!--START_SECTION:snake-->
+<img src="https://raw.githubusercontent.com/Tanbigh/Tanbigh/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" width="100%"/>
+<!--END_SECTION:snake-->
+
 </div>
 
 <br>
