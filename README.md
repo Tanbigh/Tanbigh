@@ -1,109 +1,94 @@
-<!-- ============================================================
-     HEADER
-============================================================ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Tanbi%20Ghosh&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20CV%20%26%20Accessibility%20Researcher&descAlignY=58&descSize=17" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=900&color=00FF9C&center=true&vCenter=true&width=650&lines=tanbi%40github%3A~%24+whoami;Tanbi+Ghosh+%E2%80%94+Full-Stack+Developer;tanbi%40github%3A~%24+cat+focus.txt;Computer+Vision+%2F%2F+Accessibility+Tech" alt="Typing SVG" />
 
-<a href="https://tanbigh.github.io/Tanbi-Profile/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Final-Year+BCA+Student+%40+IEM+Kolkata;Building+accessible%2C+scalable+web+applications;Researching+Computer+Vision+%26+Sign+Language+AI;Always+shipping%2C+always+learning." alt="Typing SVG" />
-</a>
+<br>
 
-<p>
-  <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:ghosh.tanbi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://tanbigh.github.io/Tanbi-Profile/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=Tanbigh&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/Tanbigh?style=for-the-badge&color=58A6FF&labelColor=161B22" />
+<img src="https://img.shields.io/badge/status-final--year--BCA-000000?style=flat-square&labelColor=000000&color=00FF9C&logo=googlescholar&logoColor=00FF9C" />
+<img src="https://img.shields.io/badge/CGPA-8.84-000000?style=flat-square&labelColor=000000&color=00FF9C" />
+<img src="https://img.shields.io/badge/location-Kolkata%2C_IN-000000?style=flat-square&labelColor=000000&color=00FF9C" />
 
 </div>
 
 <br>
 
-<!-- ============================================================
-     ABOUT ME
-============================================================ -->
-## About Me
+```bash
+tanbi@github:~$ cat about.md
+```
 
-I'm a final-year **BCA student at the Institute of Engineering & Management, Kolkata** (CGPA 8.84), with a focus on full-stack web development, computer vision, and accessibility technology. My work spans research, internships across MERN-stack and ed-tech companies, and building production-quality web applications end to end.
-
-- 🔬 **Research:** Co-author on two communicated papers — *ISL-TextLite* (real-time sign-language-to-text, submitted to ACM TKDD) and *IndiToon MemeNet* (meme understanding, submitted to Neurocomputing)
-- 🧑‍💻 **Building:** A real-time multiplayer UNO game (vanilla JS + Firebase) and **GENETIGZ**, a premium streetwear brand site with PWA support
-- 🎓 **Leadership:** Deputy Secretary & Chief Content Writer, *Gyan Ke Bytes* magazine; student organizer, *Campus Tank 2K25*
-- ✍️ **Beyond code:** Journalism, creative writing, and competitive achievements in art and chess
-- 📫 **Reach me:** [ghosh.tanbi@gmail.com](mailto:ghosh.tanbi@gmail.com)
-
-<br>
-
-<!-- ============================================================
-     TECH STACK
-============================================================ -->
-## Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,threejs,cpp,csharp,java,mysql,mongodb,firebase,nodejs,git,github&theme=dark" />
-</p>
+```
+Final-year BCA student @ Institute of Engineering & Management, Kolkata
+Focus areas   : Full-stack web dev · Computer Vision · Accessibility Tech
+Research      : ISL-TextLite (ACM TKDD, submitted) — real-time sign-language-to-text
+                IndiToon MemeNet (Neurocomputing, submitted) — meme understanding
+Leadership    : Deputy Secretary & Chief Content Writer @ Gyan Ke Bytes
+                Student organizer @ Campus Tank 2K25
+Off-duty      : journalism · creative writing · chess · art
+```
 
 <br>
 
-<!-- ============================================================
-     FEATURED PROJECTS
-============================================================ -->
-## Featured Projects
+```bash
+tanbi@github:~$ ls stack/
+```
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,threejs,firebase,nodejs,mongodb,mysql,cpp,java,git,github&theme=dark" />
+</div>
+
+<br>
+
+```bash
+tanbi@github:~$ ls -la projects/
+```
+
+<table>
+<tr><th>project</th><th>description</th><th>stack</th></tr>
+<tr><td><code>genetigz/</code></td><td>Premium streetwear brand site — PWA, offline fallback, progressive image loading</td><td>HTML · CSS · JS · Service Workers</td></tr>
+<tr><td><code>uno-online/</code></td><td>Real-time 2-player multiplayer card game — synthesized audio, animated cards</td><td>Vanilla JS · Firebase</td></tr>
+<tr><td><code>portfolio-webgl/</code></td><td>Sci-fi portfolio — particle fields, glassmorphism, scroll-driven camera</td><td>Three.js</td></tr>
+<tr><td><code>portfolio-next/</code></td><td>Component-driven personal site, premium dark theme</td><td>Next.js · TypeScript · Tailwind</td></tr>
+</table>
+
+<br>
+
+```bash
+tanbi@github:~$ ./run_stats.sh
+```
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tanbigh&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=chartreuse-dark&bg_color=0D1117" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanbigh&layout=compact&hide_border=true&theme=chartreuse-dark&bg_color=0D1117&langs_count=8" />
+</div>
+
+<div align="center">
+  <img width="98%" src="https://streak-stats.demolab.com?user=Tanbigh&theme=nightowl&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Tanbigh&theme=react-dark&area=true&hide_border=true&bg_color=0D1117&color=00FF9C&line=00FF9C&point=ffffff" />
+</div>
+
+<br>
+
+```bash
+tanbi@github:~$ cat contact.txt
+```
 
 <div align="center">
 
-| Project | Description | Stack |
-|---|---|---|
-| **GENETIGZ** | Premium streetwear brand website with PWA support, offline fallback, and progressive image loading | HTML, CSS, JS, Service Workers |
-| **UNO Online** | Real-time two-player multiplayer card game with synthesized audio and animated card visuals | Vanilla JS, Firebase |
-| **Sci-Fi Portfolio** | WebGL portfolio with particle fields, glassmorphism UI, and scroll-driven camera movement | Three.js |
-| **Developer Portfolio** | Component-driven personal portfolio with a premium dark theme | Next.js, TypeScript, Tailwind CSS |
+<a href="mailto:ghosh.tanbi@gmail.com"><img src="https://img.shields.io/badge/email-ghosh.tanbi%40gmail.com-000000?style=flat-square&labelColor=000000&color=00FF9C&logo=gmail&logoColor=00FF9C" /></a>
+<a href="https://tanbigh.github.io/Tanbi-Profile/"><img src="https://img.shields.io/badge/portfolio-tanbigh.github.io-000000?style=flat-square&labelColor=000000&color=00FF9C&logo=googlechrome&logoColor=00FF9C" /></a>
+<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/linkedin-connect-000000?style=flat-square&labelColor=000000&color=00FF9C&logo=linkedin&logoColor=00FF9C" /></a>
 
 </div>
 
 <br>
 
-<!-- ============================================================
-     GITHUB STATS
-============================================================ -->
-## GitHub Analytics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tanbigh&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dracula&locale=en" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanbigh&layout=compact&hide_border=true&theme=dracula&langs_count=8&locale=en" />
-</div>
-
-<div align="center">
-  <img width="98%" src="https://streak-stats.demolab.com?user=Tanbigh&theme=dracula&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Tanbigh&theme=react-dark&area=true&hide_border=true&bg_color=00000000" />
-</div>
-
-<br>
-
-<!-- ============================================================
-     TROPHIES
-============================================================ -->
-## GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tanbigh&theme=dracula&no-frame=true&row=1&column=7" />
-</div>
-
-<br>
-
-<!-- ============================================================
-     FOOTER
-============================================================ -->
 <div align="center">
 
-*"Code is like humor. When you have to explain it, it's bad."* — Cory House
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+```
+> exit 0
+```
 
 </div>
