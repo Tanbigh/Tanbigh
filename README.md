@@ -58,16 +58,19 @@ Off-duty     : journalism · creative writing · chess · art
 <!-- ============================================================
      FEATURED PROJECTS
 ============================================================ -->
+<!-- ============================================================
+     FEATURED PROJECTS
+============================================================ -->
 ## 🚀 Featured Projects
 
 <div align="center">
 
-| project | description | stack |
+| Project | Description | Stack |
 |---|---|---|
-| **genetigz/** | Premium streetwear brand site — PWA, offline fallback, progressive image loading | HTML · CSS · JS · Service Workers |
-| **ISL-ASL-to-Text/** | AI-powered real-time Indian Sign Language recognition system that converts hand gestures into text using Computer Vision and Deep Learning | Python · YOLOv11 · MediaPipe · TensorFlow · OpenCV |
-| **portfolio-webgl/** | Sci-fi portfolio — particle fields, glassmorphism, scroll-driven camera | Three.js |
-| **portfolio-next/** | Component-driven personal site, premium dark theme | Next.js · TypeScript · Tailwind |
+| **genetigz/** | Premium streetwear brand website with responsive UI, PWA support, offline fallback, and progressive image loading. | HTML · CSS · JavaScript · Service Workers |
+| **ISL-ASL-to-Text/** | AI-powered real-time Indian Sign Language recognition system that converts hand gestures into text using Computer Vision and Deep Learning. | Python · YOLOv11 · MediaPipe · TensorFlow · OpenCV |
+| **Weather Prediction/** | Modern weather forecasting web application with real-time weather data, location-based search, dynamic forecasts, and a responsive user interface. | React · JavaScript · OpenWeather API · CSS |
+| **Portfolio/** | Modern personal portfolio featuring projects, skills, achievements, and interactive UI with responsive design. | Next.js · TypeScript · Tailwind CSS |
 
 </div>
 
