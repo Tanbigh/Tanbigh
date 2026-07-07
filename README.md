@@ -1,4 +1,3 @@
-
 <!-- ============================================================
      HEADER
 ============================================================ -->
@@ -30,6 +29,9 @@
 <img src="https://img.shields.io/github/followers/Tanbigh?style=for-the-badge&color=5A189A&labelColor=0D1117"/>
 
 </div>
+
+<br>
+
 <!-- ============================================================
      ABOUT ME
 ============================================================ -->
@@ -65,9 +67,6 @@ Off-duty     : journalism · creative writing · chess · art
 <!-- ============================================================
      FEATURED PROJECTS
 ============================================================ -->
-<!-- ============================================================
-     FEATURED PROJECTS
-============================================================ -->
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -78,8 +77,6 @@ Off-duty     : journalism · creative writing · chess · art
 | **ISL-ASL-to-Text/** | AI-powered real-time Indian Sign Language recognition system that converts hand gestures into text using Computer Vision and Deep Learning. | Python · YOLOv11 · MediaPipe · TensorFlow · OpenCV |
 | **Weather Prediction/** | Modern weather forecasting web application with real-time weather data, location-based search, dynamic forecasts, and a responsive user interface. | React · JavaScript · OpenWeather API · CSS |
 | **Portfolio/** | Modern personal portfolio featuring projects, skills, achievements, and interactive UI with responsive design. | Next.js · TypeScript · Tailwind CSS |
-
-</div>
 
 </div>
 
