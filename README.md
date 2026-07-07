@@ -65,9 +65,11 @@ Off-duty     : journalism · creative writing · chess · art
 | project | description | stack |
 |---|---|---|
 | **genetigz/** | Premium streetwear brand site — PWA, offline fallback, progressive image loading | HTML · CSS · JS · Service Workers |
-| **uno-online/** | Real-time 2-player multiplayer card game — synthesized audio, animated cards | Vanilla JS · Firebase |
+| **ISL-ASL-to-Text/** | AI-powered real-time Indian Sign Language recognition system that converts hand gestures into text using Computer Vision and Deep Learning | Python · YOLOv11 · MediaPipe · TensorFlow · OpenCV |
 | **portfolio-webgl/** | Sci-fi portfolio — particle fields, glassmorphism, scroll-driven camera | Three.js |
 | **portfolio-next/** | Component-driven personal site, premium dark theme | Next.js · TypeScript · Tailwind |
+
+</div>
 
 </div>
 
