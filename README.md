@@ -1,34 +1,31 @@
+
 <!-- ============================================================
      HEADER
 ============================================================ -->
 
 <div align="center">
 
-<img
-src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&bgColor=0D1117&color=gradient&customColorList=33,34,35,36&text=Hi%20There,%20I'm%20Tanbi%20Ghosh%20👋&fontSize=42&fontColor=F8F8FF&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast%20%7C%20Computer%20Vision&descAlignY=60&descSize=18"
-width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&color=gradient&customColorList=18,19,20&text=Hi%20There,%20I'm%20Tanbi%20Ghosh%20👋&fontSize=42&fontColor=F8F8FF&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast%20%7C%20Computer%20Vision&descAlignY=60&descSize=18" width="100%" />
 
 <a href="https://tanbigh.github.io/Tanbi-Profile/">
-<img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=C9184A&center=true&vCenter=true&width=850&lines=Master's+Student+%40+SNU+Kolkata;Frontend+Developer;AI+%26+Machine+Learning+Enthusiast;Computer+Vision+Researcher;Building+Modern+Web+Experiences;Welcome+to+my+GitHub+Profile!"
-alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=C9184A&center=true&vCenter=true&width=850&lines=Master's+Student+%40+SNU+Kolkata;Frontend+Developer;AI+%26+Machine+Learning+Enthusiast;Computer+Vision+Researcher;Building+Modern+Web+Experiences;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </a>
 
 <p>
-<a href="https://www.linkedin.com/in/tanbi-ghosh-333945281">
-<img src="https://img.shields.io/badge/LinkedIn-5A189A?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <a href="https://www.linkedin.com/in/tanbi-ghosh-333945281">
+    <img src="https://img.shields.io/badge/LinkedIn-5A189A?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-<a href="mailto:ghosh.tanbi@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-9D174D?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <a href="mailto:ghosh.tanbi@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-9D174D?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-<a href="https://tanbigh.github.io/Tanbi-Profile/">
-<img src="https://img.shields.io/badge/Portfolio-240046?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+  <a href="https://tanbigh.github.io/Tanbi-Profile/">
+    <img src="https://img.shields.io/badge/Portfolio-240046?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Tanbigh&style=for-the-badge&color=9D174D&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=Tanbigh&style=for-the-badge&color=C9184A&label=PROFILE+VIEWS"/>
 
 <img src="https://img.shields.io/github/followers/Tanbigh?style=for-the-badge&color=5A189A&labelColor=0D1117"/>
 
