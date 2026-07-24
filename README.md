@@ -5,7 +5,7 @@
 <div align="center">
 
 <img
-src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&color=gradient&customColorList=18,19,21,22&text=Hi%20There,%20I'm%20Tanbi%20Ghosh%20👋&fontSize=42&fontColor=F8F8FF&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Machine%20Learning%20Enthusiast%20%7C%20Computer%20Vision&descAlignY=60&descSize=18"
+src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&color=gradient&customColorList=18,19,21,22&text=Hi%20There%2C%20I%27m%20Tanbi%20Ghosh%20%F0%9F%91%8B&fontSize=42&fontColor=F8F8FF&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20%26%20Computer%20Vision%20Enthusiast&descAlignY=60&descSize=18"
 width="100%"/>
 
 <a href="https://tanbigh.github.io/Tanbi-Profile/">
