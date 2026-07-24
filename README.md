@@ -5,12 +5,12 @@
 <div align="center">
 
 <img
-src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&color=gradient&customColorList=18,19,21,22&text=Hi%20There,%20I'm%20Tanbi%20Ghosh%20👋&fontSize=42&fontColor=F8F8FF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Computer%20Vision%20Enthusiast&descAlignY=60&descSize=18"
+src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&color=gradient&customColorList=18,19,21,22&text=Hi%20There,%20I'm%20Tanbi%20Ghosh%20👋&fontSize=42&fontColor=F8F8FF&animation=fadeIn&fontAlignY=38&desc=Computer%20Vision%20%26%20AI%20Enthusiast&descAlignY=60&descSize=18"
 width="100%"/>
 
 <a href="https://tanbigh.github.io/Tanbi-Profile/">
 <img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=FF4D6D&center=true&vCenter=true&width=750&lines=Master's+Student+%40+SNU+Kolkata;BCA+Graduate+%40+IEM+Kolkata;Full-Stack+Developer;Computer+Vision+%26+AI+Enthusiast;Welcome+to+my+GitHub+Profile!"
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=FF4D6D&center=true&vCenter=true&width=750&lines=Master's+Student+%40+SNU+Kolkata;BCA+Graduate+%40+IEM+Kolkata;Computer+Vision+%26+AI+Enthusiast;Software+Developer;Welcome+to+my+GitHub+Profile!"
 alt="Typing SVG"/>
 </a>
 
@@ -44,7 +44,7 @@ alt="Typing SVG"/>
 
 - 🎓 Currently pursuing a **Master's degree @ SNU, Kolkata**
 - 🏫 **B.C.A**, Institute of Engineering & Management, Kolkata — **CGPA 8.84**
-- 💡 Focus areas: **Full-Stack Web Development**, **Computer Vision**, **Accessibility Tech**
+- 💡 Focus areas: **Computer Vision**, **AI/ML**, **Accessibility Tech**
 - 🔬 Research: *ISL-TextLite* (ACM TKDD, submitted) & *IndiToon MemeNet* (Neurocomputing, submitted)
 - 🧭 Leadership: Deputy Secretary & Chief Content Writer @ Gyan Ke Bytes · Student Organizer @ Campus Tank 2K25
 - ♟️ Off-duty: journalism · creative writing · chess · art
@@ -56,8 +56,8 @@ alt="Typing SVG"/>
 
 ```yaml
 class Tanbi:
-    role: "Full-Stack Developer"
-    interests: ["Computer Vision", "AI", "Web Dev"]
+    role: "Computer Vision & AI Enthusiast"
+    interests: ["Computer Vision", "AI", "Software Dev"]
     currently_learning: "Advanced Deep Learning"
     fun_fact: "Debugs better after a chess game"
 ```
@@ -73,23 +73,13 @@ class Tanbi:
 ============================================================ -->
 ## 🛠️ Tech Stack
 
-**Languages**
-<p><img src="https://skillicons.dev/icons?i=js,ts,cpp,java,html,css&theme=dark"/></p>
-
-**AI / Machine Learning**
-<p><img src="https://skillicons.dev/icons?i=python,tensorflow,opencv&theme=dark"/></p>
-
-**Frontend**
-<p><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs&theme=dark"/></p>
-
-**Backend**
-<p><img src="https://skillicons.dev/icons?i=nodejs&theme=dark"/></p>
-
-**Database**
-<p><img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&theme=dark"/></p>
-
-**Tools & Platforms**
-<p><img src="https://skillicons.dev/icons?i=git,github,vercel&theme=dark"/></p>
+| Category | Stack |
+|---|---|
+| **Languages** | <img src="https://skillicons.dev/icons?i=js,ts,cpp,java,html,css&theme=dark"/> |
+| **AI / ML** | <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv&theme=dark"/> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs&theme=dark"/> |
+| **Backend & Database** | <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,firebase&theme=dark"/> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vercel&theme=dark"/> |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=18,19,21,22&height=3&section=header" width="100%"/>
 
@@ -215,22 +205,9 @@ Modern personal portfolio featuring projects, skills, achievements, and an inter
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=18,19,21,22&height=3&section=header" width="100%"/>
 
 <!-- ============================================================
-     OPEN SOURCE CONTRIBUTIONS
+     CONTRIBUTION SNAKE
 ============================================================ -->
-## 🌱 Open Source & Contribution Activity
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/Tanbigh/Tanbigh/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/Tanbigh/Tanbigh/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph"
-       src="https://raw.githubusercontent.com/Tanbigh/Tanbigh/output/pacman-contribution-graph.svg" width="98%">
-</picture>
-</div>
-
-<br>
+## 🐍 Contribution Graph
 
 <div align="center">
 <picture>
@@ -240,22 +217,7 @@ Modern personal portfolio featuring projects, skills, achievements, and an inter
 </picture>
 </div>
 
-> ℹ️ The snake animation above needs a one-time GitHub Actions workflow on your `Tanbigh/Tanbigh` repo to generate the SVG — happy to walk you through the setup if it isn't running yet.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=18,19,21,22&height=3&section=header" width="100%"/>
-
-<!-- ============================================================
-     SUPPORT
-============================================================ -->
-## ☕ Support My Work
-
-<div align="center">
-
-<a href="https://www.buymeacoffee.com/tanbighosh">
-<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black"/>
-</a>
-
-</div>
+> ℹ️ This snake is generated from your real GitHub contribution graph via a scheduled Actions workflow on `Tanbigh/Tanbigh`. If it isn't rendering yet, the workflow needs to be added/run once — happy to walk you through the setup.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=18,19,21,22&height=3&section=header" width="100%"/>
 
