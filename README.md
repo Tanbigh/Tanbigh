@@ -5,12 +5,12 @@
 <div align="center">
 
 <img
-src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&color=gradient&customColorList=18,19,21,22&text=Hi%20There,%20I'm%20Tanbi%20Ghosh%20👋&fontSize=42&fontColor=F8F8FF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Computer%20Vision%20Enthusiast&descAlignY=60&descSize=18"
+src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&color=gradient&customColorList=18,19,21,22&text=Hi%20There,%20I'm%20Tanbi%20Ghosh%20👋&fontSize=42&fontColor=F8F8FF&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20%26%20Computer%20Vision%20Enthusiast&descAlignY=60&descSize=18"
 width="100%"/>
 
 <a href="https://tanbigh.github.io/Tanbi-Profile/">
 <img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=FF4D6D&center=true&vCenter=true&width=750&lines=Master's+Student+%40+SNU+Kolkata;BCA+Graduate+%40+IEM+Kolkata;Full-Stack+Developer;Computer+Vision+%26+AI+Enthusiast;Welcome+to+my+GitHub+Profile!"
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=FF4D6D&center=true&vCenter=true&width=850&lines=Master's+Student+%40+SNU+Kolkata;BCA+Graduate+%40+IEM+Kolkata;Software+Developer;AI+%26+Machine+Learning+Enthusiast;Computer+Vision+Researcher;Welcome+to+my+GitHub+Profile!"
 alt="Typing SVG"/>
 </a>
 
@@ -42,20 +42,21 @@ alt="Typing SVG"/>
 ## 👩‍💻 About Me
 
 ```yaml
-Education    : B.C.A, Institute of Engineering & Management, Kolkata — CGPA 8.84 (graduated)
+Education    : B.C.A, Institute of Engineering & Management, Kolkata — CGPA 8.84 (Graduated)
                Currently pursuing a Master's degree @ SNU, Kolkata
-Focus areas  : Full-stack web development · Computer Vision · Accessibility Tech
-Research     : ISL-TextLite (ACM TKDD, submitted) — real-time sign-language-to-text
-               IndiToon MemeNet (Neurocomputing, submitted) — meme understanding
+
+Focus Areas  : AI & Machine Learning · Computer Vision · Accessibility Technology
+
+Research     : ISL-TextLite (ACM TKDD, Submitted)
+               Real-time Sign Language to Text using Computer Vision
+
+               IndiToon MemeNet (Neurocomputing, Submitted)
+               AI-powered Meme Understanding & Classification
+
 Leadership   : Deputy Secretary & Chief Content Writer @ Gyan Ke Bytes
-               Student organizer @ Campus Tank 2K25
-Off-duty     : journalism · creative writing · chess · art
-```
+               Student Organizer @ Campus Tank 2K25
 
-- 📫 Reach me at **[ghosh.tanbi@gmail.com](mailto:ghosh.tanbi@gmail.com)**
-- 👀 All my work lives on my **[Portfolio →](https://tanbigh.github.io/Tanbi-Profile/)**
-
-<br>
+Interests    : Journalism · Creative Writing · Chess · Digital Art
 
 <!-- ============================================================
      TECH STACK
@@ -63,11 +64,12 @@ Off-duty     : journalism · creative writing · chess · art
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,threejs,firebase,nodejs,mongodb,mysql,cpp,java,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js,mysql,tensorflow,opencv,git,github,vscode&theme=dark" />
 </p>
 
 <br>
 
+```md
 <!-- ============================================================
      FEATURED PROJECTS
 ============================================================ -->
@@ -75,33 +77,39 @@ Off-duty     : journalism · creative writing · chess · art
 
 <div align="center">
 
-| Project | Description | Stack |
-|---|---|---|
-| **genetigz/** | Premium streetwear brand website with responsive UI, PWA support, offline fallback, and progressive image loading. | HTML · CSS · JavaScript · Service Workers |
-| **ISL-ASL-to-Text/** | AI-powered real-time Indian Sign Language recognition system that converts hand gestures into text using Computer Vision and Deep Learning. | Python · YOLOv11 · MediaPipe · TensorFlow · OpenCV |
-| **Weather Prediction/** | Modern weather forecasting web application with real-time weather data, location-based search, dynamic forecasts, and a responsive user interface. | React · JavaScript · OpenWeather API · CSS |
-| **Portfolio/** | Modern personal portfolio featuring projects, skills, achievements, and interactive UI with responsive design. | Next.js · TypeScript · Tailwind CSS |
+| Project | Description | Tech Stack |
+|:---|:---|:---|
+| **ISL-ASL-to-Text** | AI-powered real-time Indian Sign Language recognition system that translates hand gestures into text using deep learning and computer vision. | Python · YOLOv11 · MediaPipe · TensorFlow · OpenCV |
+| **Genetigz** | Modern streetwear brand website featuring a responsive UI, PWA support, offline functionality, and optimized performance. | HTML · CSS · JavaScript · Service Workers |
+| **Weather Prediction** | Real-time weather forecasting application with location-based search and live weather updates using external APIs. | React · JavaScript · OpenWeather API · CSS |
+| **Portfolio** | Personal portfolio showcasing projects, technical skills, achievements, and a responsive user experience. | React · JavaScript · HTML · CSS |
 
 </div>
 
 <br>
+```
+
+<br>
 
 <!-- ============================================================
-     GITHUB STATS
+     GITHUB ANALYTICS
 ============================================================ -->
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tanbigh&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dracula&locale=en" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanbigh&layout=compact&hide_border=true&theme=dracula&langs_count=8&locale=en" />
-</div>
 
-<div align="center">
-  <img width="98%" src="https://streak-stats.demolab.com?user=Tanbigh&theme=dracula&hide_border=true" alt="GitHub Streak"/>
-</div>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tanbigh&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dracula" />
 
-<div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Tanbigh&theme=react-dark&area=true&hide_border=true&bg_color=00000000" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanbigh&layout=compact&langs_count=8&hide_border=true&theme=dracula" />
+
+<br><br>
+
+<img width="98%" src="https://streak-stats.demolab.com?user=Tanbigh&theme=dracula&hide_border=true" alt="GitHub Streak"/>
+
+<br><br>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Tanbigh&theme=react-dark&area=true&hide_border=true&bg_color=00000000"/>
+
 </div>
 
 <br>
@@ -134,13 +142,15 @@ Off-duty     : journalism · creative writing · chess · art
 </div>
 
 <br>
-
 <!-- ============================================================
      FOOTER
 ============================================================ -->
+
 <div align="center">
 
-### 💭 "Code is like humor. When you have to explain it, it's bad." — Cory House
+### ✨ Thanks for visiting my profile!
+
+*"Building intelligent solutions through AI, Computer Vision, and continuous learning."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
