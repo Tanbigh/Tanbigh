@@ -5,7 +5,7 @@
 <div align="center">
 
 <img
-src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&color=gradient&customColorList=18,19,21,22&text=Hi%20There%2C%20I%27m%20Tanbi%20Ghosh%20%F0%9F%91%8B&fontSize=42&fontColor=F8F8FF&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20and%20Computer%20Vision%20Enthusiast&descAlignY=60&descSize=18"
+src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&color=0:0D0014,35:1A0B2E,70:3C096C,100:10002B&text=Hi%20There%2C%20I%27m%20Tanbi%20Ghosh%20%F0%9F%91%8B&fontSize=42&fontColor=F8F8FF&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20and%20Computer%20Vision%20Enthusiast&descAlignY=60&descSize=18"
 width="100%"/>
 
 <a href="https://tanbigh.github.io/Tanbi-Profile/">
@@ -87,14 +87,61 @@ Off-duty     : journalism · creative writing · chess · art
 ## 🚀 Featured Projects
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF4D6D,50:C9184A,100:7209B7&height=3&width=800" width="80%"/>
+</div>
 
-| Project | Description | Stack |
-|---|---|---|
-| **genetigz/** | Premium streetwear brand website with responsive UI, PWA support, offline fallback, and progressive image loading. | HTML · CSS · JavaScript · Service Workers |
-| **ISL-ASL-to-Text/** | AI-powered real-time Indian Sign Language recognition system that converts hand gestures into text using Computer Vision and Deep Learning. | Python · YOLOv11 · MediaPipe · TensorFlow · OpenCV |
-| **Weather Prediction/** | Modern weather forecasting web application with real-time weather data, location-based search, dynamic forecasts, and a responsive user interface. | React · JavaScript · OpenWeather API · CSS |
-| **Portfolio/** | Modern personal portfolio featuring projects, skills, achievements, and interactive UI with responsive design. | Next.js · TypeScript · Tailwind CSS |
+<br/>
 
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🧥 genetigz/
+Premium streetwear brand website with responsive UI, PWA support, offline fallback, and progressive image loading.
+
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/-Service%20Workers-7209B7?style=flat-square&logo=pwa&logoColor=white"/>
+
+</td>
+<td width="50%" valign="top">
+
+### 🤟 ISL-ASL-to-Text/
+AI-powered real-time Indian Sign Language recognition system that converts hand gestures into text using Computer Vision and Deep Learning.
+
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/-YOLOv11-C9184A?style=flat-square&logo=yolo&logoColor=white"/> <img src="https://img.shields.io/badge/-MediaPipe-FF4D6D?style=flat-square&logo=google&logoColor=white"/> <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/-OpenCV-5C3C92?style=flat-square&logo=opencv&logoColor=white"/>
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7209B7,50:C9184A,100:FF4D6D&height=2&width=800" width="80%"/>
+</div>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌦️ Weather Prediction/
+Modern weather forecasting web application with real-time weather data, location-based search, dynamic forecasts, and a responsive user interface.
+
+<img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/-OpenWeather%20API-EB6E4B?style=flat-square&logo=openweathermap&logoColor=white"/> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Portfolio/
+Modern personal portfolio featuring projects, skills, achievements, and interactive UI with responsive design.
+
+<img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF4D6D,50:C9184A,100:7209B7&height=3&width=800" width="80%"/>
 </div>
 
 <!-- ============================================================
@@ -127,8 +174,16 @@ Off-duty     : journalism · creative writing · chess · art
 ============================================================ -->
 <div align="center">
 
-### 💭 "Code is like humor. When you have to explain it, it's bad." — Cory House
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:10002B,50:3C096C,100:C9184A&height=2&width=800" width="60%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<br/><br/>
+
+### 💭 *"Code is like humor. When you have to explain it, it's bad."* — Cory House
+
+<sub>Thanks for stopping by — always building, always learning. ✨</sub>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:10002B,35:1A0B2E,70:3C096C,100:0D0014" width="100%"/>
 
 </div>
