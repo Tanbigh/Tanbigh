@@ -16,75 +16,172 @@ alt="Typing SVG"/>
 
 <p>
 <a href="https://www.linkedin.com/in/tanbi-ghosh-333945281">
-<img src="https://img.shields.io/badge/LinkedIn-7B2CBF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:ghosh.tanbi@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-B5179E?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://tanbigh.github.io/Tanbi-Profile/">
-<img src="https://img.shields.io/badge/Portfolio-3A0CA3?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=Tanbigh&style=for-the-badge&color=C9184A&label=PROFILE+VIEWS"/>
-
-<img src="https://img.shields.io/github/followers/Tanbigh?style=for-the-badge&color=7209B7&labelColor=0D1117"/>
+<img src="https://img.shields.io/github/followers/Tanbigh?style=for-the-badge&color=7209B7&labelColor=0D1117&logo=github"/>
 
 </div>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=18,19,21,22&height=3&section=header" width="100%"/>
 
 <!-- ============================================================
      ABOUT ME
 ============================================================ -->
 ## 👩‍💻 About Me
 
+<table>
+<tr>
+<td width="60%">
+
+- 🎓 Currently pursuing a **Master's degree @ SNU, Kolkata**
+- 🏫 **B.C.A**, Institute of Engineering & Management, Kolkata — **CGPA 8.84**
+- 💡 Focus areas: **Full-Stack Web Development**, **Computer Vision**, **Accessibility Tech**
+- 🔬 Research: *ISL-TextLite* (ACM TKDD, submitted) & *IndiToon MemeNet* (Neurocomputing, submitted)
+- 🧭 Leadership: Deputy Secretary & Chief Content Writer @ Gyan Ke Bytes · Student Organizer @ Campus Tank 2K25
+- ♟️ Off-duty: journalism · creative writing · chess · art
+- 📫 Reach me at **[ghosh.tanbi@gmail.com](mailto:ghosh.tanbi@gmail.com)**
+- 🔗 All my work lives on my **[Portfolio →](https://tanbigh.github.io/Tanbi-Profile/)**
+
+</td>
+<td width="40%">
+
 ```yaml
-Education    : B.C.A, Institute of Engineering & Management, Kolkata — CGPA 8.84 (graduated)
-               Currently pursuing a Master's degree @ SNU, Kolkata
-Focus areas  : Full-stack web development · Computer Vision · Accessibility Tech
-Research     : ISL-TextLite (ACM TKDD, submitted) — real-time sign-language-to-text
-               IndiToon MemeNet (Neurocomputing, submitted) — meme understanding
-Leadership   : Deputy Secretary & Chief Content Writer @ Gyan Ke Bytes
-               Student organizer @ Campus Tank 2K25
-Off-duty     : journalism · creative writing · chess · art
+class Tanbi:
+    role: "Full-Stack Developer"
+    interests: ["Computer Vision", "AI", "Web Dev"]
+    currently_learning: "Advanced Deep Learning"
+    fun_fact: "Debugs better after a chess game"
 ```
 
-- 📫 Reach me at **[ghosh.tanbi@gmail.com](mailto:ghosh.tanbi@gmail.com)**
-- 👀 All my work lives on my **[Portfolio →](https://tanbigh.github.io/Tanbi-Profile/)**
+</td>
+</tr>
+</table>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=18,19,21,22&height=3&section=header" width="100%"/>
 
 <!-- ============================================================
      TECH STACK
 ============================================================ -->
-## 🛠️ Languages & Tools
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,threejs,firebase,nodejs,mongodb,mysql,cpp,java,git,github&theme=dark" />
-</p>
+**Languages**
+<p><img src="https://skillicons.dev/icons?i=js,ts,cpp,java,html,css&theme=dark"/></p>
 
-<br>
+**AI / Machine Learning**
+<p><img src="https://skillicons.dev/icons?i=python,tensorflow,opencv&theme=dark"/></p>
+
+**Frontend**
+<p><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs&theme=dark"/></p>
+
+**Backend**
+<p><img src="https://skillicons.dev/icons?i=nodejs&theme=dark"/></p>
+
+**Database**
+<p><img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&theme=dark"/></p>
+
+**Tools & Platforms**
+<p><img src="https://skillicons.dev/icons?i=git,github,vercel&theme=dark"/></p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=18,19,21,22&height=3&section=header" width="100%"/>
+
+<!-- ============================================================
+     CURRENTLY WORKING ON
+============================================================ -->
+## 🔭 Currently Working On
+
+- 🧠 Refining **ISL-TextLite**, a real-time Indian Sign Language-to-text system, ahead of ACM TKDD review
+- 🖼️ Improving **IndiToon MemeNet** for the Neurocomputing submission pipeline
+- 🎓 Coursework and research for my Master's program at SNU, Kolkata
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=18,19,21,22&height=3&section=header" width="100%"/>
 
 <!-- ============================================================
      FEATURED PROJECTS
 ============================================================ -->
 ## 🚀 Featured Projects
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-| Project | Description | Stack |
+### 🧵 Genetigz
+Premium streetwear brand website with a responsive UI, PWA support, offline fallback, and progressive image loading.
+
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Service_Workers-4285F4?style=flat-square&logo=googlechrome&logoColor=white"/>
+
+<a href="https://github.com/Tanbigh/genetigz"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🤟 ISL-ASL-to-Text
+AI-powered real-time Indian Sign Language recognition system that converts hand gestures into text using computer vision and deep learning.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/YOLOv11-black?style=flat-square&logo=yolo&logoColor=white"/> <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+
+<a href="https://github.com/Tanbigh/ISL-ASL-to-Text"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌦️ Weather Prediction
+Modern weather forecasting web application with real-time weather data, location-based search, dynamic forecasts, and a responsive UI.
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/OpenWeather_API-EB6E4B?style=flat-square&logo=openweathermap&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+
+<a href="https://github.com/Tanbigh/Weather-Prediction"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 💼 Portfolio
+Modern personal portfolio featuring projects, skills, achievements, and an interactive, responsive design.
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+
+<a href="https://github.com/Tanbigh/Portfolio"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://tanbigh.github.io/Tanbi-Profile/"><img src="https://img.shields.io/badge/Live_Demo-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=18,19,21,22&height=3&section=header" width="100%"/>
+
+<!-- ============================================================
+     RESEARCH & PUBLICATIONS
+============================================================ -->
+## 📚 Research & Publications
+
+| Title | Focus | Status |
 |---|---|---|
-| **genetigz/** | Premium streetwear brand website with responsive UI, PWA support, offline fallback, and progressive image loading. | HTML · CSS · JavaScript · Service Workers |
-| **ISL-ASL-to-Text/** | AI-powered real-time Indian Sign Language recognition system that converts hand gestures into text using Computer Vision and Deep Learning. | Python · YOLOv11 · MediaPipe · TensorFlow · OpenCV |
-| **Weather Prediction/** | Modern weather forecasting web application with real-time weather data, location-based search, dynamic forecasts, and a responsive user interface. | React · JavaScript · OpenWeather API · CSS |
-| **Portfolio/** | Modern personal portfolio featuring projects, skills, achievements, and interactive UI with responsive design. | Next.js · TypeScript · Tailwind CSS |
+| **ISL-TextLite** | Real-time sign-language-to-text translation | Submitted — ACM TKDD |
+| **IndiToon MemeNet** | Meme understanding for Indian-context media | Submitted — Neurocomputing |
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=18,19,21,22&height=3&section=header" width="100%"/>
 
-<br>
+<!-- ============================================================
+     ACHIEVEMENTS
+============================================================ -->
+## 🏅 Achievements
+
+- 🎓 Graduated B.C.A with a **CGPA of 8.84**
+- 🧑‍💼 Served as **Deputy Secretary & Chief Content Writer** @ Gyan Ke Bytes
+- 🗂️ Student organizer for **Campus Tank 2K25**
+- ✍️ Two research papers currently under peer review
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=18,19,21,22&height=3&section=header" width="100%"/>
 
 <!-- ============================================================
      GITHUB STATS
@@ -104,7 +201,7 @@ Off-duty     : journalism · creative writing · chess · art
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Tanbigh&theme=react-dark&area=true&hide_border=true&bg_color=00000000" />
 </div>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=18,19,21,22&height=3&section=header" width="100%"/>
 
 <!-- ============================================================
      TROPHIES
@@ -115,12 +212,12 @@ Off-duty     : journalism · creative writing · chess · art
   <img src="https://github-profile-trophy.vercel.app/?username=Tanbigh&theme=dracula&no-frame=true&row=1&column=7" />
 </div>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=18,19,21,22&height=3&section=header" width="100%"/>
 
 <!-- ============================================================
-     PACMAN CONTRIBUTION GRAPH
+     OPEN SOURCE CONTRIBUTIONS
 ============================================================ -->
-## 🟡 Contribution Graph
+## 🌱 Open Source & Contribution Activity
 
 <div align="center">
 <picture>
@@ -135,9 +232,54 @@ Off-duty     : journalism · creative writing · chess · art
 
 <br>
 
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="98%"/>
+</picture>
+</div>
+
+> ℹ️ The snake animation above needs a one-time GitHub Actions workflow on your `Tanbigh/Tanbigh` repo to generate the SVG — happy to walk you through the setup if it isn't running yet.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=18,19,21,22&height=3&section=header" width="100%"/>
+
 <!-- ============================================================
-     FOOTER
+     SUPPORT
 ============================================================ -->
+## ☕ Support My Work
+
+<div align="center">
+
+<a href="https://www.buymeacoffee.com/tanbighosh">
+<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black"/>
+</a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=18,19,21,22&height=3&section=header" width="100%"/>
+
+<!-- ============================================================
+     CONNECT
+============================================================ -->
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/tanbi-ghosh-333945281">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:ghosh.tanbi@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://tanbigh.github.io/Tanbi-Profile/">
+<img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
 <div align="center">
 
 ### 💭 "Code is like humor. When you have to explain it, it's bad." — Cory House
