@@ -8,7 +8,7 @@
 src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&color=0:0D0014,35:1A0B2E,70:3C096C,100:10002B&text=Hi%20There%2C%20I%27m%20Tanbi%20Ghosh%20%F0%9F%91%8B&fontSize=42&fontColor=F8F8FF&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20and%20Computer%20Vision%20Enthusiast&descAlignY=60&descSize=18"
 width="100%"/>
 
-<a href="https://tanbigh.github.io/Tanbi-Profile/">
+<a href="https://tg-portfolio-black.vercel.app/">
 <img
 src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=FF4D6D&center=true&vCenter=true&width=750&lines=Master's+Student+%40+SNU+Kolkata;BCA+Graduate+%40+IEM+Kolkata;AI+%26+Machine+Learning+Enthusiast;Computer+Vision+Enthusiast;Welcome+to+my+GitHub+Profile!"
 alt="Typing SVG"/>
@@ -21,7 +21,7 @@ alt="Typing SVG"/>
 <a href="mailto:ghosh.tanbi@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-B5179E?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://tanbigh.github.io/Tanbi-Profile/">
+<a href="https://tg-portfolio-black.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-3A0CA3?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 </p>
@@ -48,7 +48,7 @@ Off-duty     : journalism · creative writing · chess · art
 ```
 
 - 📫 Reach me at **[ghosh.tanbi@gmail.com](mailto:ghosh.tanbi@gmail.com)**
-- 👀 All my work lives on my **[Portfolio →](https://tanbigh.github.io/Tanbi-Profile/)**
+- 👀 All my work lives on my **[Portfolio →](https://tg-portfolio-black.vercel.app/)**
 
 <!-- ============================================================
      TECH STACK
